@@ -1,5 +1,15 @@
 forge 'forge.puppetlabs.com'
 
 # Forge Modules
-mod 'puppetlabs/ntp', '4.1.0'
+mod 'puppetlabs/ntp'
 mod 'puppetlabs/stdlib'
+mod 'puppetlabs-git'
+mod 'puppetlabs-bacula'
+mod 'puppetlabs-nginx'
+mod 'puppetlabs-mysql'
+mod 'puppetlabs-haproxy'
+mod 'puppetlabs-mongodb'
+mod 'puppetlabs-mcollective'
+mod 'puppetlabs-rabbitmq'
+mod 'puppetlabs-firewall'
+mod 'puppetlabs-apache'
